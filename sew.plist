@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/zhouyikai129/ipa/raw/master/sed.ipa</string>
+					<string>https://github.com/zhouyikai129/ipa/raw/master/sew.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,21 +23,21 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/zhouyikai129/ipa/raw/master/512.png</string>
+					<string>https://github.com/zhouyikai129/ipa/raw/master/57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.net.bewgcloud.sed</string>
+				<string>cn.net.bewgcloud.sew</string>
 				<key>bundle-version</key>
-				<string>1.2.12</string>
+				<string>1.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>污水运营平台</string>
+				<string>村镇智慧水务</string>
 			</dict>
 		</dict>
 	</array>
